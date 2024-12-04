@@ -8,7 +8,7 @@ public class Doctor {
 
     private String name;
     private int id;
-    private String age;
+    private int age;
     private String specialization;
     private String email;
 }
